@@ -3,7 +3,15 @@
     --to-gray:#423d52;
     --yellow-1:#FFEDB4;
     --yellow-2:#FBD38D;
+    --hover-yellow: 	#ffd970;
+    --svg-yellow: #ffb54d;
     --gray-1:#333333;
     --gray-2: #4A5568;
-
+    --border-gray: 	#8278a1;
+    --btn-text-gray: #3b3649;
+    --purple-dark:#5c006c;
+    --text-white: 	#e0daf1;
+    --white-1: 	#c4bddb;
+    --svg-blue:#3c0080;
+    --blue-dark:#270057;
 }
