@@ -12,7 +12,7 @@
 .design-1 .design-1-svg {
     position: absolute;
     left: 0;
-    fill: var(--purple-dark);
+    fill: #5c006c;
     transform: translate(-6rem, -18rem) rotate(-7deg) skew(0) skewY(0) scaleX(1) scaleY(1);
     width: 260rem;
     top: -4px;
@@ -27,7 +27,7 @@
     margin-top: 3rem;
     margin-bottom: 8rem;
     text-align: center;
-    color: var(--text-white)
+    color: #e0daf1;
 }
 .content-header p{
     font-size: 1.5rem;
@@ -43,7 +43,7 @@
 
 }
 .content-header span{
-    color: var(--yellow-2);
+    color: #FBD38D;
 }
 .myvalues {
     display: flex;
@@ -79,7 +79,7 @@
     flex-direction: column;
     font-size: 1.25rem;
     line-height: 1.75rem;
-    color: var(--text-white);
+    color: #e0daf1;;
 }
 .value article .description h2{
     text-transform: capitalize;
@@ -87,7 +87,7 @@
     font-family: 'Roboto Slab', serif;
    font-size: 1.25rem;
     margin-bottom: 0.5rem;
-    color: var(--yellow-1)
+    color: #FFEDB4;
 }
 .hope img{
     border-radius: 50%;
@@ -97,7 +97,7 @@ section.topics{
 }
 section.topics .title{
     max-width: 80rem;
-    color:var(--yellow-1);
+    color:#FFEDB4;;
     font-weight: 700;
     font-size: 1.5rem;
     line-height: 2rem;
@@ -105,7 +105,7 @@ section.topics .title{
     padding-top: 4rem;
     padding-left:1.5rem;
     padding-right: 1.5rem;
-    border-top: 1px solid var(--border-gray);
+    border-top: 1px solid #8278a1;
     border-top-width:4px;
     margin-top: 1rem;
     margin-left: auto;
@@ -113,7 +113,7 @@ section.topics .title{
     z-index: -55;
 }
 section.topics .description{
-    color: var(--text-white);
+    color: #e0daf1;;
     font-size: 1rem;
     line-height: 1.75rem;
     text-align: center;
@@ -152,7 +152,7 @@ section.topics .list-image{
     align-items: center;
 }
 .btn-started a{
-    color: var(--btn-text-gray);
+    color: #3b3649;;
     font-weight: 700;
     font-size: 1.25rem;
     line-height: 1.75rem;
@@ -165,20 +165,20 @@ section.topics .list-image{
 
 }
 .btn-started a:hover{
-    background-color: var(--hover-yellow);
+    background-color: #FBD38D;;
 }
 .design-2-svg{
-    fill: var(--svg-yellow);
+    fill: #ffb54d;;
     margin-top: 4rem;
     display: block;
 }
 section#interest{
     padding-top: 1rem;
     padding-bottom: 4rem;
-    background-image: linear-gradient(to bottom,var(--svg-yellow), var(--yellow-2));
+    background-image: linear-gradient(to bottom,#ffb54d, #FBD38D);
 }
 #interest header{
-    color: var(--text-white);
+    color: #e0daf1;;
     text-align: center;
     padding-left: 1.5rem  ;
     padding-right: 1.5rem;
@@ -187,7 +187,7 @@ section#interest{
     margin-right: auto;
 }
 #interest header h2{
-    color: var(--gray-2);
+    color: #4A5568;;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 2.25rem;
@@ -198,7 +198,7 @@ section#interest{
     letter-spacing: 0.15rem;
 }
 #interest header p{
-    color: var(--gray-2);
+    color: #4A5568;;
     font-size: 1.5rem;
     line-height: 2rem;
     margin-left: auto;
@@ -260,17 +260,17 @@ section#interest{
     border-radius: 0.375rem;
 }
 .design-3-svg{
-    fill: var(--svg-blue);
+    fill: #3c0080;
     margin-top: -4rem;
     height: 100%
 }
 #personality{
     padding-bottom: 8rem;
     padding-top: 1rem;
-    background-image: linear-gradient(to bottom,var(--svg-blue), var(--blue-dark))
+    background-image: linear-gradient(to bottom,#3c0080, #270057)
 }
 #personality header{
-    color: var(--text-white);
+    color: #e0daf1;;
     text-align: center;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
@@ -280,7 +280,7 @@ section#interest{
 
 }
 #personality header h2{
-    color: var(--text-white);
+    color: #e0daf1;;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 2.25rem;
@@ -315,9 +315,9 @@ section#interest{
 }
 .personality-list-group li article{
     display: flex;
-    color: var(--white-1);
+    color: #c4bddb;
     padding: 2rem;
-    background-color: hsl(258, 94%, 19%);
+    background-color: #1E035EFF;
     border-radius: 0.375rem;
     min-height: 100%;
 
@@ -328,13 +328,13 @@ section#interest{
 .p_svg_1{
     font-size: 2.25rem;
     line-height: 2.5rem;
-    color: hsl(280 100% 75%);
+    fill: #D580FFFF;
 }
 .p_description{
     margin-left: 1rem;
 }
 .p_h2{
-    color: hsl(280 100% 65%);
+    color: #C44DFFFF;
     font-weight: 700;
     font-size: 1.25rem;
     line-height: 1.75rem;
@@ -342,10 +342,10 @@ section#interest{
     margin-bottom: 0.25rem;
 }
 .p_h2.purple{
-    color: hsl(267 100% 65%);
+    color: #9D4DFFFF;
 }
 .p_h2.blue{
-    color:hsl(257 100% 65%);
+    color:#7F4DFFFF;
 }
 #me{
     color: rgb(255 255 255);
@@ -356,7 +356,7 @@ padding-bottom: 4rem;
     margin-bottom: -6rem
 }
 #me header{
-    color: hsl(256 45% 90%/1);
+    color: #E0DAF1FF;
     text-align: center;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
