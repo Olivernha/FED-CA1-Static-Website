@@ -1,3 +1,4 @@
+/* heading */
 .service_bg {
     background-color: #3b3649;
 }
@@ -59,7 +60,7 @@
     line-height: 2rem;
     color: #E0DAF1FF;
 }
-
+/* activity section */
 #sp_activity {
     display: flex;
     flex-direction: row;
@@ -90,7 +91,7 @@
     content: "\1f449";
     padding-right: .5rem;
 }
-
+/* sp event section */
 .sp-events {
     display: flex;
     flex-direction: column;
@@ -170,7 +171,6 @@
     align-items: center;
 }
 .event-btn{
-
     color:#fff;
     font-size: 1.25rem;
     line-height: 1.75rem;
@@ -182,8 +182,8 @@
 .event-btn:hover{
     background-color:#5300B8FF;
 
-
 }
+/* sp social media section */
 .social-media{
     padding-bottom: 8rem;
     background-image: linear-gradient(to bottom,#3c0085,#270057);
@@ -243,6 +243,7 @@
 .svg-size:hover{
     color: #5353ec;
 }
+/* footer section */
 .services_footer{
     background-color: #2F2B3BFF;
     padding: 2rem 0;

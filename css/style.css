@@ -1,4 +1,4 @@
-
+/* index page  main heading */
 .design-1 {
     position: absolute;
     top: 0;
@@ -8,7 +8,6 @@
     height: 40rem;
     z-index: -10;
 }
-
 .design-1 .design-1-svg {
     position: absolute;
     left: 0;
@@ -45,6 +44,7 @@
 .content-header span{
     color: #FBD38D;
 }
+/* value section */
 .myvalues {
     display: flex;
     flex-direction: row;
@@ -172,6 +172,7 @@ section.topics .list-image{
     margin-top: 4rem;
     display: block;
 }
+/* interest section */
 section#interest{
     padding-top: 1rem;
     padding-bottom: 4rem;
@@ -264,6 +265,7 @@ section#interest{
     margin-top: -4rem;
     height: 100%
 }
+/* personality section */
 #personality{
     padding-bottom: 8rem;
     padding-top: 1rem;
@@ -347,6 +349,7 @@ section#interest{
 .p_h2.blue{
     color:#7F4DFFFF;
 }
+/* about me section */
 #me{
     color: rgb(255 255 255);
     text-align: center;
@@ -438,6 +441,7 @@ padding-bottom: 4rem;
     text-transform: uppercase;
     font-family: "Roboto Slab", serif;
 }
+/* footer section */
 footer{
     display: flex;
     flex-direction: row;
