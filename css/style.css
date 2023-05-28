@@ -79,7 +79,7 @@
     flex-direction: column;
     font-size: 1.25rem;
     line-height: 1.75rem;
-    color: #e0daf1;;
+    color: #e0daf1;
 }
 .value article .description h2{
     text-transform: capitalize;
@@ -97,7 +97,7 @@ section.topics{
 }
 section.topics .title{
     max-width: 80rem;
-    color:#FFEDB4;;
+    color:#FFEDB4;
     font-weight: 700;
     font-size: 1.5rem;
     line-height: 2rem;
@@ -113,7 +113,7 @@ section.topics .title{
     z-index: -55;
 }
 section.topics .description{
-    color: #e0daf1;;
+    color: #e0daf1;
     font-size: 1rem;
     line-height: 1.75rem;
     text-align: center;
@@ -152,7 +152,7 @@ section.topics .list-image{
     align-items: center;
 }
 .btn-started a{
-    color: #3b3649;;
+    color: #3b3649;
     font-weight: 700;
     font-size: 1.25rem;
     line-height: 1.75rem;
@@ -160,15 +160,15 @@ section.topics .list-image{
     padding-right: 3.5rem;
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: var(--yellow-2);
+    background-color: #ffb54d;
     border-radius: 0.375rem;
 
 }
 .btn-started a:hover{
-    background-color: #FBD38D;;
+    background-color: #FBD38D;
 }
 .design-2-svg{
-    fill: #ffb54d;;
+    fill: #ffb54d;
     margin-top: 4rem;
     display: block;
 }
@@ -178,7 +178,7 @@ section#interest{
     background-image: linear-gradient(to bottom,#ffb54d, #FBD38D);
 }
 #interest header{
-    color: #e0daf1;;
+    color: #e0daf1;
     text-align: center;
     padding-left: 1.5rem  ;
     padding-right: 1.5rem;
@@ -187,7 +187,7 @@ section#interest{
     margin-right: auto;
 }
 #interest header h2{
-    color: #4A5568;;
+    color: #4A5568;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 2.25rem;
@@ -198,7 +198,7 @@ section#interest{
     letter-spacing: 0.15rem;
 }
 #interest header p{
-    color: #4A5568;;
+    color: #4A5568;
     font-size: 1.5rem;
     line-height: 2rem;
     margin-left: auto;
@@ -270,7 +270,7 @@ section#interest{
     background-image: linear-gradient(to bottom,#3c0080, #270057)
 }
 #personality header{
-    color: #e0daf1;;
+    color: #e0daf1;
     text-align: center;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
@@ -280,7 +280,7 @@ section#interest{
 
 }
 #personality header h2{
-    color: #e0daf1;;
+    color: #e0daf1;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 2.25rem;
